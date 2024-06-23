@@ -8,7 +8,7 @@ openai
 langchain
 langchain_community
 langchain-core
-langgraph
+langgraph==0.0.69
 
 langchain_openai
 

@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from graph import salesCompAgent
+from graph2 import *
 import random
 
 
