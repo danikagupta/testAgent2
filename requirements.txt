@@ -12,5 +12,5 @@ langgraph==0.0.69
 
 langchain_openai
 
-#graphviz
-#pygraphviz
+graphviz
+pygraphviz
